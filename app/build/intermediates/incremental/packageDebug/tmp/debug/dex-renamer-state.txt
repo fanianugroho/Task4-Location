@@ -1,0 +1,4 @@
+#Thu Mar 26 11:06:49 ICT 2020
+base.0=D\:\\Kuliah\\SEMESTER 4\\papb 2\\android-advanced-master\\android-advanced-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
